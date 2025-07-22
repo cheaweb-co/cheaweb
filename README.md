@@ -1,5 +1,11 @@
 git add .
 git commit -m "Added new sections to Discovering Dubai"
+/index.html         → Home page
+/about.html         → About Dubai
+/attractions.html   → Top attractions
+/styles.css         → CSS styles
+/scripts.js         → JavaScript (optional)
+/images/            → Image assets
 git push origin main
 # 🌍 cheaweb – Discover the UAE
 [![Live Preview](https://img.shields.io/badge/Live%20Preview-Click%20Here-brightgreen?style=for-the-badge&logo=vercel&link=https://cheaweb-co.github.io/cheaweb)](https://cheaweb-co.github.io/cheaweb)
