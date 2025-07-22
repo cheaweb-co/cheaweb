@@ -6,23 +6,16 @@
 ![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
 
 > A modern and responsive website celebrating the beauty, culture, and innovation of the **United Arab Emirates 🇦🇪**.
-
 ---
-
 ## ✨ Features
-
 - 🕌 Cultural highlights across all Emirates  
 - 🏙️ Architecture and cityscape showcases  
 - 🏜️ Desert travel guides and heritage sites  
 - 📱 Mobile-optimized and responsive  
 - 🎨 Clean UI with elegant desert-inspired design
-
 ---
-
 ## 🌐 Live Demo
-
 👉 [**Visit cheaweb-co live**](https://cheaweb-co.github.io/cheaweb)
-
 ---
 
 ## 🛠️ Tech Stack
@@ -34,15 +27,6 @@
 ---
 
 ## 🚀 Getting Started
-
-```bash
-git clone https://github.com/cheaweb-co/cheaweb.git
-cd cheaweb
-# If static:
-# Just open index.html in a browser
-# If using a toolchain:
-npm install
-npm run dev
 ## 📸 Screenshots
 ### 🏠 Homepage Preview
 ![Homepage](assets/homepage-preview.jpeg)
