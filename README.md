@@ -1,3 +1,12 @@
+## 📸 Screenshots
+
+### 🏠 Homepage Preview
+
+![Homepage](assets/homepage-preview.png)
+
+### 🏙️ Burj Khalifa Section
+
+![Burj Khalifa](assets/burj-khalifa.png)
 # 🌍 cheaweb – Discover the UAE
 
 [![Live Preview](https://img.shields.io/badge/Live%20Preview-Click%20Here-brightgreen?style=for-the-badge&logo=vercel&link=https://cheaweb-co.github.io/cheaweb)](https://cheaweb-co.github.io/cheaweb)
