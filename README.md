@@ -44,11 +44,7 @@ cd cheaweb
 npm install
 npm run dev
 ## 📸 Screenshots
-
 ### 🏠 Homepage Preview
-
 ![Homepage](assets/homepage-preview.jpeg)
-
 ### 🏙️ Burj Khalifa Section
-
 ![Burj Khalifa](assets/burj-khalifa.jpeg)
