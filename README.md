@@ -32,3 +32,6 @@
 ![Homepage](assets/homepage-preview.jpeg)
 ### 🏙️ Burj Khalifa Section
 ![Burj Khalifa](assets/burj-khalifa.jpeg)
+git add .
+git commit -m "Added new sections to Discovering Dubai"
+git push origin main
