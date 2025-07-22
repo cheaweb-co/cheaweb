@@ -22,7 +22,7 @@
 
 ## 🌐 Live Demo
 
-👉 [**Visit cheaweb live**](https://cheaweb-co.github.io/cheaweb)
+👉 [**Visit cheaweb-co live**](https://cheaweb-co.github.io/cheaweb)
 
 ---
 
