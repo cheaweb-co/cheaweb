@@ -1,3 +1,6 @@
+git add .
+git commit -m "Added new sections to Discovering Dubai"
+git push origin main
 # 🌍 cheaweb – Discover the UAE
 [![Live Preview](https://img.shields.io/badge/Live%20Preview-Click%20Here-brightgreen?style=for-the-badge&logo=vercel&link=https://cheaweb-co.github.io/cheaweb)](https://cheaweb-co.github.io/cheaweb)
 [![License](https://img.shields.io/github/license/cheaweb-co/cheaweb?style=for-the-badge)](LICENSE)
