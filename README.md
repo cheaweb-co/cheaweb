@@ -45,20 +45,4 @@ npm run dev
 ![Made with CSS](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![Made with JS](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
 
-> A modern, responsive web experience showcasing the **United Arab Emirates** — from its iconic architecture to cultural roots. Built with love and elegance.
-
----
-
-## ✨ Features
-
-- 🕌 Cultural insights from all 7 Emirates  
-- 🏙️ Iconic landmarks and futuristic cityscapes  
-- 🏜️ Travel destinations and adventure guides  
-- 📱 Fully responsive & mobile-optimized  
-- 🌙 Clean, minimal design with desert-inspired palette
-
----
-
-## 🌐 Live Demo
-
-👉 [**View cheaweb live**](https://cheaweb@cheaweb.com
+> A modern, responsive web experience showcasing the **United Arab Emirates** — from its iconic architecture to cultural roots. Built with l Feature
