@@ -34,7 +34,7 @@
 
 ```bash
 git clone https://github.com/cheaweb/cheaweb.git
-cd cheaweb
+cd cheaweb-co
 npm install
 npm run dev
 # 🌍 cheaweb – Discover the UAE
@@ -74,9 +74,11 @@ npm run dev
 ---
 
 ## 🚀 Getting Started
-
 ```bash
 git clone https://github.com/cheaweb-co/cheaweb.git
 cd cheaweb
 npm install      # if applicable
 npm run dev      # or open index.html in browser
+git checkout -b your-feature
+git commit -m "Added cool feature"
+git push origin your-feature
