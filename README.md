@@ -61,24 +61,4 @@ npm run dev
 
 ## 🌐 Live Demo
 
-👉 [**View cheaweb live**](https://cheaweb@cheaweb.com)
-
----
-
-## 🛠️ Tech Stack
-
-- **Frontend**: HTML5, CSS3, JavaScript  
-- **Styling**: Tailwind CSS *(or custom CSS, if preferred)*  
-- **Deployment**: GitHub Pages / Vercel
-
----
-
-## 🚀 Getting Started
-```bash
-git clone https://github.com/cheaweb-co/cheaweb.git
-cd cheaweb
-npm install      # if applicable
-npm run dev      # or open index.html in browser
-git checkout -b your-feature
-git commit -m "Added cool feature"
-git push origin your-feature
+👉 [**View cheaweb live**](https://cheaweb@cheaweb.com
